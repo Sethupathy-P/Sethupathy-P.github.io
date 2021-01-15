@@ -10,11 +10,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Education
 
-- M.Tech: Indian Institue of Science, Bangalore (2018-2020)
-  Advisor: Dr. Suresh Sundaram
+- M.Tech: Indian Institue of Science, Bangalore (2018-2020) <br/>
+  Advisor: Dr. Suresh Sundaram <br/>
   Thesis Topic: Development of Cognitive Double Deep Q Network
-- B.Tech: Amrita Vishwa Vidyapeetham, Coimbatore (2014-2018)
-  Advisor: Dr. Balaji
+- B.Tech: Amrita Vishwa Vidyapeetham, Coimbatore (2014-2018) <br/>
+  Advisor: Dr. Balaji <br/>
   Thesis Topic: Turn Control in Wings Inspired From Flying Snakes
 
 
