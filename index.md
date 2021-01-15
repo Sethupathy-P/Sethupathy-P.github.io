@@ -20,5 +20,3 @@ Thesis Topic: Turn Control in Wings Inspired From Flying Snakes
 ## Contact
 
 - Mail : sethupathyp@iisc.ac.in
-
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
