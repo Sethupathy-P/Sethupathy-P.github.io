@@ -8,6 +8,12 @@ You can use the [editor on GitHub](https://github.com/Sethupathy-P/Sethupathy-P.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your mark mark.
 
+## Education
+
+- M.Tech: Indian Institue of Science, Bangalore (2018-2020)
+- B.Tech: Amrita Vishwa Vidyapeetham, Coimbatore (2014-2018)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
