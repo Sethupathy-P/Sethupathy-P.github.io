@@ -21,6 +21,6 @@ Thesis Topic: Turn Control in Wings Inspired From Flying Snakes
 
 - Currently working as Project Assistant at the Artificial Intelegince and Robotics Lab in Indian Institue of Science, Bangalore (2020-Present)  
 
-### Contact
+## Contact
 
 Email Id : sethupathyp@iisc.ac.in
