@@ -10,7 +10,7 @@
 Advisor: [Dr. Suresh Sundaram](http://aero.iisc.ac.in/people/suresh-sundaram/) <br/>
 Thesis Topic: Development of Cognitive Double Deep Q Network
 - B.Tech: Amrita Vishwa Vidyapeetham, Coimbatore (2014-2018) <br/>
-Advisor: [Dr. Balaji](https://www.amrita.edu/faculty/r-balajee) <br/>
+Advisor: [Dr. Balajee Ramakrishnananda](https://www.amrita.edu/faculty/r-balajee) <br/>
 Thesis Topic: Turn Control in Wings Inspired From Flying Snakes
 
 ## Working Experience
