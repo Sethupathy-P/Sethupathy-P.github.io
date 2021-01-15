@@ -23,4 +23,4 @@ Thesis Topic: Turn Control in Wings Inspired From Flying Snakes
 
 ## Contact
 
-Email Id : sethupathyp@iisc.ac.in
+- Email Id : sethupathyp@iisc.ac.in
