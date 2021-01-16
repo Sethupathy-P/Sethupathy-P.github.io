@@ -15,7 +15,7 @@ Thesis Topic: Turn Control in Wings Inspired From Flying Snakes
 
 ## Working Experience
 
-- Currently working as Project Assistant at the Artificial Intelegince and Robotics Lab in Indian Institue of Science, Bangalore (2020-Present)  
+- Currently working as a Project Assistant at the Artificial Intelligence and Robotics Lab in Indian Institue of Science, Bangalore (2020-Present)  
 
 ## Contact
 
